@@ -1,0 +1,16 @@
+{
+  "mean_absolute_error":2.541,
+  "r2_score":0.845,
+  "training_rows":8000,
+  "test_rows":2000,
+  "features":[
+    "attendance_rate",
+    "quiz_average",
+    "homework_average",
+    "exam_average",
+    "missing_assignments",
+    "late_submissions",
+    "engagement_score",
+    "current_grade"
+  ]
+}
